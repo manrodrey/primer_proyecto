@@ -12,3 +12,5 @@ def arrow (n):
         print(j * "*")
 
 arrow(4)
+
+print("Vamos a modificar las cosas")
